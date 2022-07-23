@@ -9,7 +9,7 @@ A Web Scraper made with python that extracts data from amazon website and writes
 clone the repo first
 
 ```bash
-       pip install -r requirements.txt
+       git clone https://github.com/dheerajhemachandran/amazon-web-scraper.git
 ```
 
 Install my project with pip
